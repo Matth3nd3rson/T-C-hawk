@@ -20,7 +20,7 @@
     {
       "matches": ["<all_urls>"],
       "js": ["src/content.js"],
-      "css": ["src/styles.css"]
+      "css": ["src/sidebar.css"]
     }
   ],
   "icons": {
